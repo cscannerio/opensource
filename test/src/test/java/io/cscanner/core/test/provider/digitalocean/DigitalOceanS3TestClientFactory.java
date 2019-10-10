@@ -1,7 +1,9 @@
 package io.cscanner.core.test.provider.digitalocean;
 
 import com.amazonaws.services.s3.AmazonS3;
+import io.cscanner.core.provider.digitalocean.DigitalOceanConfiguration;
 import io.cscanner.core.provider.digitalocean.DigitalOceanPlugin;
+import io.cscanner.core.provider.digitalocean.DigitalOceanS3ClientSupplier;
 import io.cscanner.core.test.engine.ConnectionConfiguration;
 import io.cscanner.core.test.engine.Plugin;
 import io.cscanner.core.test.engine.ScannerCore;

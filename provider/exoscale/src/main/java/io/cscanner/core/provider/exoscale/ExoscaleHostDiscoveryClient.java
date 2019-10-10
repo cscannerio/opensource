@@ -1,4 +1,4 @@
-package io.cscanner.core.test.provider.exoscale;
+package io.cscanner.core.provider.exoscale;
 
 import br.com.autonomiccs.apacheCloudStack.client.ApacheCloudStackClient;
 import br.com.autonomiccs.apacheCloudStack.client.ApacheCloudStackRequest;
@@ -6,9 +6,9 @@ import br.com.autonomiccs.apacheCloudStack.client.beans.ApacheCloudStackUser;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
+import com.opsbears.webcomponents.net.IPAddress;
 import io.cscanner.core.test.engine.HostDiscoveryClient;
 import io.cscanner.core.test.engine.HostDiscoveryRecord;
-import com.opsbears.webcomponents.net.IPAddress;
 
 import javax.annotation.ParametersAreNonnullByDefault;
 import java.util.ArrayList;

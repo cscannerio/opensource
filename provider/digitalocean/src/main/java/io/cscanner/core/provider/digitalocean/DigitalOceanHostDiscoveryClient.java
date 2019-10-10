@@ -4,10 +4,12 @@ import com.myjeeva.digitalocean.DigitalOcean;
 import com.myjeeva.digitalocean.exception.DigitalOceanException;
 import com.myjeeva.digitalocean.exception.RequestUnsuccessfulException;
 import com.myjeeva.digitalocean.impl.DigitalOceanClient;
-import com.myjeeva.digitalocean.pojo.*;
+import com.myjeeva.digitalocean.pojo.Droplets;
+import com.myjeeva.digitalocean.pojo.FloatingIPs;
+import com.myjeeva.digitalocean.pojo.Pages;
+import com.opsbears.webcomponents.net.IPAddress;
 import io.cscanner.core.test.engine.HostDiscoveryClient;
 import io.cscanner.core.test.engine.HostDiscoveryRecord;
-import com.opsbears.webcomponents.net.IPAddress;
 
 import javax.annotation.ParametersAreNonnullByDefault;
 import java.util.ArrayList;

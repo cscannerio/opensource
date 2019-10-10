@@ -1,4 +1,4 @@
-package io.cscanner.core.test.cli;
+package io.cscanner.core.cli;
 
 import io.cscanner.core.test.engine.RuleResult;
 

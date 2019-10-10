@@ -1,4 +1,4 @@
-package io.cscanner.core.test.provider.digitalocean;
+package io.cscanner.core.provider.digitalocean;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.AWSCredentialsProvider;

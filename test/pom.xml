@@ -15,8 +15,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.cscanner</groupId>
-            <artifactId>core</artifactId>
+            <groupId>io.cscanner.core</groupId>
+            <artifactId>engine</artifactId>
             <version>master-SNAPSHOT</version>
         </dependency>
         <dependency>

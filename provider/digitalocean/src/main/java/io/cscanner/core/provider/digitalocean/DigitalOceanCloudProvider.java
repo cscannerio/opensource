@@ -1,4 +1,4 @@
-package io.cscanner.core.test.provider.digitalocean;
+package io.cscanner.core.provider.digitalocean;
 
 import io.cscanner.core.test.engine.CloudProvider;
 import io.cscanner.core.test.engine.HostDiscoveryCloudProvider;

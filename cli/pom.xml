@@ -19,8 +19,8 @@
             <version>0.8.1</version>
         </dependency>
         <dependency>
-            <groupId>io.cscanner</groupId>
-            <artifactId>core</artifactId>
+            <groupId>io.cscanner.core</groupId>
+            <artifactId>engine</artifactId>
             <version>master-SNAPSHOT</version>
         </dependency>
         <dependency>
