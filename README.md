@@ -18,7 +18,7 @@
 
 » [Grab the latest release](https://github.com/cscannerio/core/releases)
 
-» [Read the documentation](https://cscanner.io)
+» [Read the documentation](https://docs.cscanner.io/)
 
 ## A brief introduction
 
@@ -58,5 +58,5 @@ full list of possible filtering and output options.
 
 ## Full documentation
 
-For a full documentation please see the cscanner website at [cscanner.io](https://cscanner.io).
+For a full documentation please see the cscanner website at [cscanner.io](https://docs.cscanner.io/).
 
